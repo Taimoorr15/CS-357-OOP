@@ -113,6 +113,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ If you found this repository helpful, please give it a star!
 
-**Made with ❤️ by [Taimoor](https://github.com/Taimoorr15)**
+Made with ❤️ by (https://github.com/Taimoorr15)
 
 </div>
