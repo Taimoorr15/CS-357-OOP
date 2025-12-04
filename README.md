@@ -108,11 +108,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Course Duration: [Start Date] - [End Date]
 - Special thanks to all contributors and peers
 
-
-<div align="center">
-
 ⭐ If you found this repository helpful, please give it a star!
 
 Made with ❤️ by (https://github.com/Taimoorr15)
 
-</div>
